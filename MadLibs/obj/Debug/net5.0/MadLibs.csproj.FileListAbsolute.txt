@@ -30,3 +30,7 @@ C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\ref\MadLibs.d
 C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\MadLibs.pdb
 C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\MadLibs.genruntimeconfig.cache
 C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CopyComplete
+C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\PuppyForm.cshtml.g.cs
+C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\PuppyResult.cshtml.g.cs
+C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\GroceryForm.cshtml.g.cs
+C:\Users\PCAdmin\Desktop\MadLibs.Solution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\GroceryResult.cshtml.g.cs
